@@ -1,4 +1,3 @@
-from pickle import ADDITEMS
 from str_functions import Menu,Color,Title,Middle
 import sql_functions
 from time import sleep
